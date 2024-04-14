@@ -2,7 +2,7 @@ XSC Transcribe.Document Version 6089.00
 Transcribe!,Windows,8,40,7,S,0
 
 SectionStart,Main
-SoundFileName,9convert.com - Bergentrückung  ASGORE  UNDERTALE 5th Anniversary Concert.mp3,Win,D:\\UserFiles\\Academics\\UCB Files\\2024 Spring\\Asgore Arranging\\9convert.com - Bergentrückung  ASGORE  UNDERTALE 5th Anniversary Concert.mp3
+SoundFileName,9convert.com - Bergentrückung  ASGORE  UNDERTALE 5th Anniversary Concert.mp3,Win,D:\\UserFiles\\Academics\\Berkeley\\sp24\\asgore-arranging\\9convert.com - Bergentrückung  ASGORE  UNDERTALE 5th Anniversary Concert.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 128K),2,3052910,44100,8414208,190.798367
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -49,10 +49,10 @@ TextZoneSplitterPos,0.250000
 PianoRollSplitterPos,0.543292
 ViewSplitterPos,0.792552
 VertProfileZoom,1.000000
-HorizProfileZoom,1.767766
-HorizProfilePos,27501
-SelectionLeft,7547896
-SelectionRight,7547896
+HorizProfileZoom,0.625000
+HorizProfilePos,0
+SelectionLeft,307898
+SelectionRight,307898
 SectionEnd,View0
 
 SectionStart,Markers
