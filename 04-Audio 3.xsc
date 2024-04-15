@@ -2,7 +2,7 @@ XSC Transcribe.Document Version 6089.00
 Transcribe!,Windows,8,40,7,S,0
 
 SectionStart,Main
-SoundFileName,04-Audio 3.wav,Win,D:\\UserFiles\\Academics\\Berkeley\\sp24\\asgore-arranging\\04-Audio 3.wav
+SoundFileName,04-Audio 3.wav,Win,D:\\UserFiles\\Academics\\UCB Files\\2024 Spring\\Asgore Arranging\\04-Audio 3.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,29981758,44100,7495401,169.963741
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -47,12 +47,12 @@ PianoRollBtmNote,24
 PianoRollTopNote,96
 TextZoneSplitterPos,0.250000
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700000
+ViewSplitterPos,0.692623
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,597
-SelectionLeft,461399
-SelectionRight,461399
+HorizProfileZoom,0.176777
+HorizProfilePos,444
+SelectionLeft,3188247
+SelectionRight,3188247
 SectionEnd,View0
 
 SectionStart,Markers
